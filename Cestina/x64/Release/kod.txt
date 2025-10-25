@@ -1,0 +1,7 @@
+cele_cislo x = 15;
+cele_cislo y = 5;
+
+cele_cislo soucet = x+y;
+
+tiskni("nioger");
+tiskni soucet;

@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: Zprostředkující adresář (x64\Release\) obsahuje soubory sdílené z jiného projektu (Cestina.vcxproj). To může způsobit nesprávné chování při čištění a opětovném sestavení.
+  interpreter.cpp
+  Cestina.cpp
+  Vytváří se kód.
+  Previous IPDB not found, fall back to full compilation.
+  All 604 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Vytváření kódu se dokončilo.
+  Cestina.vcxproj -> C:\Users\jakbe\Desktop\Cestina\Cestina\x64\Release\CzechPlusPlus.exe
